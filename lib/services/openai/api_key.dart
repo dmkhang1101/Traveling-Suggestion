@@ -1,3 +1,3 @@
 class ApiKey {
-  static const String openAIApiKey = "sk-proj-CGsbkxkdjX78oKVvniewT3BlbkFJXGgL9C78nMInjloNkEHP";
+  static const String openAIApiKey = "sk-proj-MHqBDddltDIcoi6tDxsxT3BlbkFJXLNsz50PdAfNKN1PZGdp";
 }
