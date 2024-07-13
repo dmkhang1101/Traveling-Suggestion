@@ -1,4 +1,0 @@
--lib
-    -services
-        -openai
-            api_key.dart
